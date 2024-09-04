@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikash kumar
-- 👀 I’m interested in Frontend development , React , JavaScript
+- 👀 I’m interested in web development , React , JavaScript, node , express , mongodb , mongoose , socket io
 - 💞️ I’m looking to collaborate on a New Project
 - 📫 How to reach me vp3637637@gmail.com
 
