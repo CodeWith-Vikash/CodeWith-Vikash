@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikash kumar
-- 👀 I’m interested in web development , React , JavaScript, node , express , mongodb , mongoose , socket io
+- 👀 I’m interested in web development , MERN , socket io , Python, Flask
 - 💞️ I’m looking to collaborate on a New Project
 - 📫 How to reach me vikashkumar.dev87@gmail.com
 
